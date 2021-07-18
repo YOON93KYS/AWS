@@ -21,6 +21,18 @@
     - Amazon ElastiCache：インメモリキャッシングシステム
     - Amazon Redshift：高速、シンプル、コスパの良いデータウェアハウス
 - マネジメントとガバナンス
+  - 優先度高
+    - Amazon CloudWatch
+    - AWS Auto Scaling
+    - AWS CloudFormation
+    - AWS マネジメントコンソール
+  - 優先度低
+    - AWS Cloud Trail
+    - AWS Config
+    - AWS OpsWorks
+    - AWS Service Catalog
+    - AWS Systems Manager
+    - AWS Truted Advisor
 - ネットワーキングとコンテンツ配信
   - 優先度高
     - AmazonVPC：代表的なネットワークサービス
