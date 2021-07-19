@@ -50,6 +50,10 @@
     - Amazon Elastic File System（EFS）
     - Amazon FSx for Windows ファイルサーバー
 - セキュリティ、アイデンティティ、コンプライアンス
+  - 優先度高
+    - AWS Identity & amp; Access Management
+    - AWS Key Management Service
+    - AWS Organizations
 - ネットワーキングとコンテンツ配信
   - 優先度低
     - AWS Storage Gateway：オンプレミスのデータを持ってきて保存する役割をメインとしている
