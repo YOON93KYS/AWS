@@ -44,5 +44,3 @@
 
 ex) CloudFront、Lambdaエッジ
 
-
-
