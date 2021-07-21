@@ -54,6 +54,16 @@
     - AWS Identity & amp; Access Management
     - AWS Key Management Service
     - AWS Organizations
+  - 優先度低
+    - Amazon Cognito
+    - Amazon Inspector
+    - AWS CloudHSM
+    - AWS Shield
+    - AWS Artifact
+    - AWS WAF
+    - AWS Directory Service
+    - AWS Single Sign-On
+    - AWS GuardDuty
 - ネットワーキングとコンテンツ配信
   - 優先度低
     - AWS Storage Gateway：オンプレミスのデータを持ってきて保存する役割をメインとしている
