@@ -4,6 +4,9 @@
 
 ## 優先度高の範囲
 - アプリケーション統合
+  -　優先度高
+    - Amazon Simple Queue Servics （SQS）
+    - Amazon Simple Notification Service　（SNS）
 - コンピューティング
   -　優先度高
     - EC2：クラウド内で仮想サーバーを作る機能
@@ -69,3 +72,8 @@
     - AWS Storage Gateway：オンプレミスのデータを持ってきて保存する役割をメインとしている
 ## 優先度低の範囲
 - 開発者ツール
+ - AWS Codecommit
+ - AWS CodeBuild
+ - AWS CodeDeploy
+ - AWS CodePipeline
+ - AWS コマンドラインインターフェイス
