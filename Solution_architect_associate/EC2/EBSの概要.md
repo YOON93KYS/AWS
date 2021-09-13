@@ -79,8 +79,8 @@ EC2が利用するのはインスタンスストアとEBSの２タイプのス�
 #### プロビジョンドIOPS
 - 高いI/O性能に依存するNoSQLやアプリ
 - 10,000IOPSや160MB/s超のワークロード大規模DB
-- Nitroシステム
-- AmazonEC2インsタンス・EBS最適化インスタンスタイプで高速化
+- Nitroシステム：Amazon EC2を実現するためのサブシステム
+- AmazonEC2インスタンス・EBS最適化インスタンスタイプで高速化
 IOPS：Input/Output Per Second
 つまり、1秒にどのくらい読んだり、書いたりするのか
 ### HDD
